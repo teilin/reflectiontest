@@ -1,0 +1,6 @@
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Debug\ReflectionPerformancetest.exe.config
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\obj\Debug\ReflectionPerformancetest.csprojResolveAssemblyReference.cache
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Debug\ReflectionPerformancetest.exe
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Debug\ReflectionPerformancetest.pdb
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\obj\Debug\ReflectionPerformancetest.exe
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\obj\Debug\ReflectionPerformancetest.pdb
