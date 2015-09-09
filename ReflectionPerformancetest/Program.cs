@@ -17,6 +17,11 @@ namespace ReflectionPerformancetest
             testString = "Hello World!";
         }
 
+        public void SetString(string value)
+        {
+            testString = value;
+        }
+
         public string StringProperty
         {
             get { return testString; }
@@ -35,8 +40,8 @@ namespace ReflectionPerformancetest
             stopWatch.Start();
             for (var i = 0; i < Iterations; i++)
             {
-                string test = "Hello world!";
-                test = "Hello world 2!";
+                Test test = new Test();
+                test.SetString("Hello World 2");
             }
             stopWatch.Stop();
             TimeSpan ts = stopWatch.Elapsed;

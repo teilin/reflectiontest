@@ -1,0 +1,5 @@
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Release\ReflectionPerformancetest.exe.config
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Release\ReflectionPerformancetest.exe
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\bin\Release\ReflectionPerformancetest.pdb
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\obj\Release\ReflectionPerformancetest.exe
+C:\Projects\ReflectionPerformancetest\ReflectionPerformancetest\obj\Release\ReflectionPerformancetest.pdb
